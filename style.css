@@ -1,0 +1,24 @@
+body {
+    background-image: url("https://i.postimg.cc/MGPbCDyV/204-CB983-DB1-B-40-E0-8-D22-360-CA8905-B32.jpg");
+    background-size: no-repeat;
+    background-position: center;
+    background-size: cover;
+    touch-action: none;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  -ms-user-select: none; 
+  -moz-user-select: none; 
+  -webkit-user-select: none; 
+  user-select: none
+}
+button {
+margin-top: 100px;
+border: 0;
+background-image: url("https://i.postimg.cc/MGPbCDyV/204-CB983-DB1-B-40-E0-8-D22-360-CA8905-B32.jpg");
+}
+h1 {
+margin-top: 50px;
+color: white;
+font-family: Arial;
+}
